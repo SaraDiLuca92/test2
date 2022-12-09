@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  display: block;
+  text-align: left;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin: 0px;
+  background-color: #232f3e;
+}
+.logo {
+  background-color: #232f3e;
+  height: 4em;
+  margin-top: 0;
+}
+.amazon {
+  height: 3em;
+  margin-left: 1.5em;
+  padding-top: 8px;
+}
+nav {
+  background-color: #364759;
+  height: 2em;
+}
+header {
+  background-color: #364759;
+}
+.menu {
+  margin-left: 30px;
+  text-align: start;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  padding-bottom: 2em;
+}
+.orange {
+  background-color: #f46600;
+  height: 2.5em;
+}
+.holidaytext {
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+}
+.gift {
+  background-image: url(./assets/bg-image.png);
+  height: 10em;
+  background-size: contain;
+  text-align: center;
+  background-position: center;
+}
+.giftext {
+  text-align: center;
+  padding-top: 2em;
+  color: white;
+  font-size: x-large;
+}
+.be {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+}
+main {
+  margin: 1em;
+}
+.blue {
+  color: #025a78;
+}
+.nero {
+  font-weight: 500;
+  font-size: large;
+}
+.contenitorebig {
+}
+#great {
+  text-align: center;
+  margin-right: 10px;
+}
+
+.boxmodel {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 50px;
+  display: inline-block;
+  background-image: url(./assets/img_1.jpg);
+  background-size: cover;
+  border-radius: 10%;
+}
+.boxmodel2 {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 50px;
+  display: inline-block;
+  background-image: url(./assets/img_2.jpg);
+  background-size: cover;
+  border-radius: 10%;
+}
+.boxmodel3 {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 50px;
+  display: inline-block;
+  background-image: url(./assets/img_3.jpg);
+  background-size: cover;
+  border-radius: 10%;
+}
+.boxmodel4 {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 50px;
+  display: inline-block;
+  background-image: url(./assets/img_4.jpg);
+  background-size: cover;
+  border-radius: 10%;
+}
+.boxmodel5 {
+  width: 1600px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 50px;
+  display: inline-block;
+  background-image: url(./assets/img_9.png);
+  background-size: cover;
+}
+.center {
+  text-align: center;
+}
+.boxmodel6 {
+  width: 1600px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 50px;
+  display: inline-block;
+  background-image: url(./assets/img_10.png);
+  background-size: cover;
+}
+footer {
+  background-color: #364759;
+}
+.mine {
+  background-color: #364759;
+  text-align: center;
+  color: white;
+  height: 3em;
+}
+.p {
+  text-align: center;
+  color: white;
+  padding: 1em;
+}
